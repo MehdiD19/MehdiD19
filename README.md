@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">I am a Master's student passionate about Data Science, Machine Learning and AI </h3>
 
-- 🌱 I’m currently intersted in **Mathematics, Machine Learning, Deep Learning and AI**
+- 🌱 I’m currently interested in **Mathematics, Machine Learning, Deep Learning and AI**
 - 🎓 I hold a Bachelor degree in Economics and Applied Mathematics, I am currently pursuing a Master's in Data Science and Machine Learning
 - 🏀 Passionate about sports, I enjoy playing basketball, football and boxing
 
