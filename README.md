@@ -6,4 +6,3 @@
 <h3 align="center">I am a Master's student in AI and I am currently building the future of personnal AI  </h3>
 
 
- **Thank you for checking my profile !**
