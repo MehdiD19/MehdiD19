@@ -7,7 +7,7 @@ I'm interested in voice interfaces, AI agents, and personal AI. I like working o
 ### Areas I worked on
 Voice AI • AI Agents • Multi-Agent Orchestration • Real-time Voice Processing • Enterprise Automation  • AI for Education • Machine Learning
 
-### Tech Stack
+## Tech Stack
 
 **Languages**  
 Python • JavaScript • TypeScript • SQL • Swift
