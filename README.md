@@ -1,4 +1,4 @@
-## Hey, I'm Mehdi 👋
+# Hey, I'm Mehdi 👋
 
 Master's student in AI and Data Science. Building AI products that feel more human.
 
